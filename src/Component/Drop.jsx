@@ -3,9 +3,9 @@ import './Drop.css'
 
 export default function Drop () {
 
-  const [open, setOpen] = useState(true)
+  const [open, setOpen] = useState(false)
 
-  const [nima, setNima] = useState('Mercedes')
+  const [nima, setNima] = useState('Bentley')
 
   // const sideDiv = useRef()
 
